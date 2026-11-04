@@ -17,7 +17,8 @@ Find the real problem → prove it fast with a working prototype → deliver it 
 **What I work with**
 Salesforce Revenue Cloud · CPQ · Agentforce · Data Cloud · Claude Code · ElevenLabs · MuleSoft · Workato · NetSuite · Stripe · Snowflake · Git / SFDX · Gearset · Copado · Azure DevOps
 
-**Featured project**
+**Featured projects**
+- 💬 [**Quinn: Voice Quoting Agent**](https://github.com/levi-kurtright/voice-quoting-agent), a voice AI agent that takes an order by phone, prices it through a live pricing service with volume discounts and approval rules, and reads back an accurate quote in seconds
 - 🎙️ [**Riley: Dealer Billing Voice Agent**](https://github.com/levi-kurtright/elevenlabs-billing-voice-agent), a guardrail-first voice AI agent built on ElevenLabs, tested live against five real-world billing scenarios
 
 📫 [LinkedIn](https://www.linkedin.com/in/levikurtright/) · levi.michael@gmail.com
