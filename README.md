@@ -2,6 +2,8 @@
 
 **Enterprise delivery leader and Revenue Cloud architect who builds with AI every day.**
 
+🌐 **Portfolio:** [levi-kurtright.github.io](https://levi-kurtright.github.io/), including the voice agents and how they work with Stripe
+
 I help companies turn hard business problems, like how they quote, price, bill and serve customers, into working systems in production. I've worked in the Salesforce ecosystem since 2007, and today I lead AI-enabled enterprise delivery as an Engagement Delivery Director.
 
 **What I've done**
